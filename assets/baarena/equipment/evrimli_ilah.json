@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "baarena:evrimli_ilah"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "baarena:evrimli_ilah"
+      }
+    ]
+  }
+}

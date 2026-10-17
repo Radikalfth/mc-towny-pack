@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "baarena:kara_rayquaza"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "baarena:kara_rayquaza"
+      }
+    ]
+  }
+}

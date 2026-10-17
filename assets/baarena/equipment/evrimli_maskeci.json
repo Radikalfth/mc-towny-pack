@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "baarena:evrimli_maskeci"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "baarena:evrimli_maskeci"
+      }
+    ]
+  }
+}

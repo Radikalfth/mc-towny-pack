@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "baarena:item/towny_kadim_muhafiz_sword"
+  }
+}

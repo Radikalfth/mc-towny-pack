@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "baarena:golge_avcisi"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "baarena:golge_avcisi"
+      }
+    ]
+  }
+}

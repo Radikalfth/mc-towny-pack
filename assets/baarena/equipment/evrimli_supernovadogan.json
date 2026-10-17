@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "baarena:evrimli_supernovadogan"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "baarena:evrimli_supernovadogan"
+      }
+    ]
+  }
+}
