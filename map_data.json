@@ -1,0 +1,42 @@
+{
+  "border": 2500,
+  "towns": [
+    {
+      "name": "Başkent_Anadolu",
+      "nation": "Türk_İmparatorluğu",
+      "mayor": "Fatih",
+      "residents": 5,
+      "level": 4,
+      "balance": 125000,
+      "x": 120,
+      "z": -80,
+      "claims": 12,
+      "region": "🌍 Anadolu & Orta Doğu"
+    },
+    {
+      "name": "Viyana_Kalesi",
+      "nation": "Avrupa_Birliği",
+      "mayor": "Komutan",
+      "residents": 3,
+      "level": 3,
+      "balance": 64000,
+      "x": -240,
+      "z": -920,
+      "claims": 7,
+      "region": "🌍 Avrupa Kıtası"
+    },
+    {
+      "name": "Tokyo_Limanı",
+      "nation": "Pasifik_Ulusu",
+      "mayor": "Samuray",
+      "residents": 4,
+      "level": 3,
+      "balance": 88000,
+      "x": 1650,
+      "z": 210,
+      "claims": 9,
+      "region": "🌏 Doğu Asya & Japonya"
+    }
+  ],
+  "players": []
+}
